@@ -1,0 +1,27 @@
+| Meal      | Description                                                                 | Estimated Calories | Preparation Time | Notes                                                                 |
+|-----------|-----------------------------------------------------------------------------|--------------------|------------------|-----------------------------------------------------------------------|
+| **Lunch** |                                                                             |                    |                  |                                                                       |
+| Option 1  | Grilled Chicken Salad: 120g grilled chicken breast, mixed greens, 1/4 avocado, | ~350               | 20 mins          | Use a light vinaigrette dressing. Add other vegetables like tomatoes,  |
+|           | sliced cucumber, 50g mozzarella, 1 small orange (as part of the meal).       |                    |                  | bell peppers for variety.                                             |
+| Option 2  | Fish with Rice and Steamed Vegetables: 150g baked or pan-fried white fish    | ~400               | 25 mins          | Choose lean fish like cod, haddock, or tilapia. Serve with 100g cooked|
+|           | (no added oil), 100g cooked brown rice, 1 cup steamed broccoli or green beans.|                    |                  | brown rice and a variety of colorful steamed vegetables.               |
+| Option 3  | Chicken and Avocado Chapati: 1 small whole wheat chapati, 80g shredded       | ~380               | 15 mins          | Use a small amount of low-fat yogurt or hummus as a spread. Add       |
+|           | cooked chicken, 1/4 mashed avocado, chopped lettuce and tomato.            |                    |                  | some chopped onion or coriander for flavor.                            |
+| Option 4  | Hearty Porridge with Fruit and Nuts: 50g rolled oats cooked with water or     | ~320               | 10 mins          | Top with 1/2 sliced banana and 1 small apple (diced). Add a small     |
+|           | skimmed milk, topped with 1/4 sliced apple and 10g of nuts (almonds or walnuts).|                    |                  | sprinkle of unsalted nuts for added nutrients and healthy fats.       |
+| **Dinner**|                                                                             |                    |                  |                                                                       |
+| Option 1  | Chicken Stir-fry with Brown Rice: 120g diced chicken breast stir-fried with   | ~450               | 25 mins          | Use plenty of colorful vegetables like bell peppers, onions, carrots, |
+|           | mixed vegetables (broccoli, carrots, peppers), a splash of low-sodium soy    |                    |                  | and zucchini. Serve with 100g cooked brown rice. Use minimal oil.     |
+|           | sauce, and served with 100g cooked brown rice.                              |                    |                  |                                                                       |
+| Option 2  | Baked Fish with Roasted Vegetables: 150g baked salmon or mackerel, roasted   | ~500               | 30 mins          | Roast vegetables like sweet potatoes, carrots, and onions with herbs   |
+|           | vegetables (200g) like sweet potatoes, carrots, and onions.                 |                    |                  | and minimal oil. Salmon and mackerel are good sources of omega-3 fats.|
+| Option 3  | Chicken and Vegetable Curry with Chapati: 100g diced chicken cooked in a      | ~420               | 30 mins          | Use a tomato-based curry sauce with plenty of vegetables like cauliflower,|
+|           | light curry sauce with mixed vegetables (peas, carrots, potatoes), served with|                    |                  | spinach, and green beans. Serve with 1 small whole wheat chapati.    |
+|           | 1 small whole wheat chapati.                                                |                    |                  |                                                                       |
+| Option 4  | Mozzarella and Tomato Salad with Whole Grain Bread: 150g mozzarella slices,   | ~480               | 15 mins          | Add fresh basil leaves and a drizzle of balsamic vinegar. Serve with   |
+|           | 200g sliced tomatoes, fresh basil, served with 2 slices of whole grain bread.|                    |                  | 2 slices of whole grain bread (around 60g).                          |
+| **Snacks**| Choose 1-2 snacks per day from the following:                              | ~100-200 each      | 5 mins           | Aim for nutrient-dense options.                                       |
+|           | 1 medium apple, 1 medium banana, 1 medium orange, a handful of berries (100g),|                    |                  |                                                                       |
+|           | a small handful of unsalted nuts (30g), 1 small pot of plain yogurt (150g).  |                    |                  |                                                                       |
+| **Drinks**|                                                                             | Minimal             | Instant          | Aim for at least 2 liters of water per day. Limit added sugar in tea |
+|           | Water, unsweetened tea, black coffee.                                       |                    |                  | and coffee.                                                           |
