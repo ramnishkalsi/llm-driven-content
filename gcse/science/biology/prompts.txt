@@ -1,0 +1,9 @@
+Create a sample paper for biology GCSE year 10 mocks. There should be three questions per topic. 
+Provide sample answers and marking scheme at the end of the paper as an appendix. 
+The following topics should be covered:
+
+
+Cell biology
+Organisation,
+Infection and response,
+Bioenergetics
